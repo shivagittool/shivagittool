@@ -10,5 +10,5 @@ int main()
 {
 	base obj;
 	obj.hello_func();
-
+	std::cout<<"hello world inside main"<<std::endl;
 }
